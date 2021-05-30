@@ -28,7 +28,7 @@ contract.events.Collect()
     .on('error', console.error);
 ```
 
-Just put your ethereum node enpoint in the **.envrc** file.
+Just put your ethereum node enpoint in the **.envrc** file and run `source .envrc`.
 
 ```shell
 
