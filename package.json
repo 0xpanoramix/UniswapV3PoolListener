@@ -1,0 +1,25 @@
+{
+  "name": "uniswapv3poollistener",
+  "version": "1.0.0",
+  "description": "A simple listener for uniswap v3 pool.",
+  "main": "listener.js",
+  "scripts": {
+    "start": "node listener.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "env-var": "^7.0.1",
+    "web3": "^1.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PtitLuca/UniswapV3PoolListener.git"
+  },
+  "author": "PtitLuca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PtitLuca/UniswapV3PoolListener/issues"
+  },
+  "homepage": "https://github.com/PtitLuca/UniswapV3PoolListener#readme"
+}
